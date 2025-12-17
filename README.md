@@ -93,7 +93,7 @@ git clone https://github.com/kevinkhoow/discrete-event-sim.git
 cd discrete-event-sim
 ```
 
-### Create Input File
+#### Create Input File
 ```
 vim 1.in
 ```
