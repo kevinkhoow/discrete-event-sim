@@ -4,6 +4,8 @@
 
 This project serves to demonstrate **Object-oriented Programming** (OOP) and **Functional Programming** (FP) principles, by modelling a shop with multiple servers or checkout counters. It tracks customers from their arrival to their departure from the shop, where they may be served, wait in a queue or leave due to capacity constraints. At the end of the simulation, it computes key performance metrics.
 
+This project is developed as part of the NUS course CS2030 Programming Methodology II.
+
 ## Project Structure
 
 ```
