@@ -32,7 +32,7 @@ discrete-event-sim
 
 ## Input
 
-To model the arrival of `c` customers to a shop with `s` servers, the input consists of the number of servers `s`, the maximum capacity of each queue `qmax` and the number of customers `c`, separated by a whitespace.
+To model the arrival of `c` customers to a shop with `s` servers, the input consists of the number of servers `s`, the maximum capacity of each queue `qmax` and the number of customers `c`, each separated by a whitespace.
 
 This is followed by `c` rows, consisting of each customer's ID and arrival time, separated by a whitespace, in the order in which they arrive. Sample inputs are provided below.
 
